@@ -1,0 +1,33 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Serif', cursive, sans-serif;
+}
+
+
+#navigation-bar{
+  background-color: #555;
+}
+
+.navbar-default .navbar-brand{
+
+  color: #fff;
+
+}
+#collapsable-nav{
+
+  background-color: #556;
+
+}
+#nav-list{
+
+  text-align: center;
+ 
+}
+
+
+
+#nav-list li{
+   border: 1px solid black;
+}
